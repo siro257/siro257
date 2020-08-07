@@ -1,5 +1,5 @@
 ### Hello, I'm James  👋
-# I'm just a newbie trying to get better at programing.
+## I'm just a newbie trying to get better at programing.
 
 ## I'm a TensorFlow Developer !
 
