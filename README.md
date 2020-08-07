@@ -1,5 +1,4 @@
 ### Hello, I'm James  👋
-## I'm just a newbie trying to get better at programing.
 
 ## I'm a TensorFlow Developer !
 
@@ -11,8 +10,6 @@
 
 - [<img align="left" alt="James | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 - email: siro257@gmail.com
-
-<br />
 
 ### Languages:
 
