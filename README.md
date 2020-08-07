@@ -1,11 +1,10 @@
 ### Hello, I'm James  👋
 
-## I'm a Developer !
+## I'm a TensorFlow Developer !
 
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
-- 🎉 2020 Goals: 
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🤖🧠 I’m interested in Machine Learning area!
+- 🎉   2020 Goals: Start and finish projects using TensorFlow or Pytorch. 
+- ⚡   Fun fact: I love developing and playing video games! 
 
 ### Connect with me:
 
