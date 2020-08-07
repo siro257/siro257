@@ -24,7 +24,7 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=siro257&show_icons=true&hide_border=false&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <img align="left" alt="James's Github Stats" src="https://github-readme-stats.vercel.app/api?username=siro257&show_icons=true&hide_border=false&theme=monokai" /> -->
 
 [linkedin]: https://www.linkedin.com/in/james-hwang22/
