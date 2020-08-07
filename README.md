@@ -24,6 +24,6 @@
 
 ---
 
-<img align="left" alt="James's Github Stats" src="https://github-readme-stats.vercel.app/api?username=siro257&show_icons=true&hide_border=false" />
+<img align="left" alt="James's Github Stats" src="https://github-readme-stats.vercel.app/api?username=siro257&show_icons=true&hide_border=false&theme=monokai" />
 
 [linkedin]: https://www.linkedin.com/in/james-hwang22/
