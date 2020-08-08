@@ -2,7 +2,7 @@
 
 ## I'm a TensorFlow Developer !
 
-- 🤖🧠 I’m interested in Machine Learning area!
+- 🤖🧠 I’m interested in Machine Learning area.
 - 🎉   2020 Goals: Start and finish projects using TensorFlow or Pytorch. 
 - ⚡   Fun fact: I love developing and playing video games! 
 
