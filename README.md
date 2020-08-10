@@ -2,7 +2,7 @@
 
 ### About me:
 
-- 🤖🧠 I’m interested in Machine Learning area.
+- 🤖🧠 I’m interested in machine learning and data science.
 - 🎉   2020 Goals: Get more familiar with data science and machine learning.
 - ⚡   Fun fact: I love developing and playing video games! 
 
