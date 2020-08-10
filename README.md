@@ -1,6 +1,6 @@
 ### Hello, I'm James  👋
 
-## About me !
+### About me:
 
 - 🤖🧠 I’m interested in Machine Learning area.
 - 🎉   2020 Goals: Get more familiar with data science and machine learning.
@@ -25,6 +25,5 @@
 ---
 
 [![James's github stats](https://github-readme-stats.vercel.app/api?username=siro257&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-<!-- <img align="left" alt="James's Github Stats" src="https://github-readme-stats.vercel.app/api?username=siro257&show_icons=true&hide_border=false&theme=monokai" /> -->
 
 [linkedin]: https://www.linkedin.com/in/james-hwang22/
