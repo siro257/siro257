@@ -2,9 +2,9 @@
 
 ### About me:
 
-- 🤖🧠 I’m interested in machine learning and data science.
-- 🎉   2020 Goals: Get more familiar with data science and machine learning.
-- ⚡   Fun fact: I love developing and playing video games! 
+- 🤖🧠 I’m interested in machine learning and data science
+- 🎉   2021 Goals: Create & deploy webapp/project archives 
+- ⚡   Fun fact: I like cats
 
 ### Connect with me:
 
